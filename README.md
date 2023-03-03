@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+## App Screenshot
+![](./screenshot/1.png)  ![](./screenshot/2.png) ![](./screenshot/3.png)
+
+### Features
+- can interact with you
+- remembers previous chat with the help of the API
+- allows you copy and paste text
+## New Features Coming Soon!!!
+- reduce spamming
+- improve accuracy 
+- authentication 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
